@@ -1,0 +1,126 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: #66bfbf;
+margin: 30px auto 0 auto;
+    font-size: 5.62rem;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color:#66BFBF;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+h3{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border-style: dotted ;
+    border-color: red;
+    border-width: 6px;
+    border-bottom: none;
+    width: 4%;
+}
+.pro{
+    text-decoration: underline;
+}
+
+                                        /**Top-container**/
+.top_container{
+    background-color:#EAF6F6;
+    position:relative;
+    padding-top: 100px;
+}
+.extra-cloud{
+    position: absolute;
+    left: 50px;
+}
+.top_cloud{
+    position: absolute;
+    right: 300px;
+    top:40px;
+}
+.bottom_cloud{
+    position: absolute;
+    left:250px;
+    bottom: 320px;
+}
+
+p{
+    line-height: 2;
+}
+.myself{
+    width: 30%;
+    margin: auto;
+}
+
+
+
+.middle-container{
+    margin: 100px 0;
+}
+.Ritik{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+}
+
+
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+
+
+.computer{
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chillies{
+    border-radius: 50%;
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+
+button{
+    background-color: #66BFBF;
+    height: 50px;
+    width: 150px;
+}
+
+                        /**Bottom-container**/
+
+.bottom-container{
+    padding: 50px;
+    background-color: #66BFBF;
+}
+.copy-right{
+    color: #EAF6F6;
+    margin-bottom: 0;
+    font-size: 13px;
+    
+}
+
+a{
+    color:#11999E;
+}
+
+
